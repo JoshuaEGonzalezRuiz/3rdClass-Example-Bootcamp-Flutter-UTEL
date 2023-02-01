@@ -1,4 +1,4 @@
-# third_class_example
+# Example of stateless and stateful widgets
 
 Project developed during class 3 of Module 1 to demonstrate the functionality of the "Text", "Icon", "Row", Column", "Statelesswidget" and "Statefulwidget" Widgets.
 
